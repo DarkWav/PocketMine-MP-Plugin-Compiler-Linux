@@ -1,0 +1,2 @@
+# PocketMine-MP-Plugin-Compiler-Linux [![](https://img.shields.io/github/license/DarkWav/PocketMine-MP-Plugin-Compiler-Linux.svg?label=License)](https://github.com/DarkWav/PocketMine-MP-Plugin-Compiler-Linux/blob/master/LICENSE)
+### Do you want to create your own version of DevTools?<br>Or do you just want to pack you plugin without devtools?<br>This simplified ConsoleScript Compililer helps out!<br><br>Read how_to_use.txt for more information.

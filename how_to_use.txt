@@ -1,0 +1,11 @@
+==== SETUP ====
+1. Install a working php runtime into this folder. (e.g. use PMMP installer to get one)
+2. Make sure that the "bin" folder is in this folder.
+==== USAGE ====
+1. Drag all your plugins source code in the "put_plugin_src_here" folder, make sure plugin.yml is in your "put_plugin_src_here" folder!
+2. Run "./CompilePlugin.sh" from your terminal. You might have to do "chmod -x ./CompilePlugin.sh" first.
+3. Your Plugin's Phar will apperar as "YourPlugin.phar" in this folder.
+==== CREDITS ====
+1. PocketMine-Team for createing ConsoleScript.
+2. PHP-Team for createing PHP.
+3. DarkWav for createing CompilePlugin.sh

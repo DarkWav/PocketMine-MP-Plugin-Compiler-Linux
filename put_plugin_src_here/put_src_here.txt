@@ -1,0 +1,2 @@
+You'll have to put you plugin's source code here.
+You can delete this file if you don't want it to be included in your plugin.
